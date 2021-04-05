@@ -1,4 +1,4 @@
-# TugasKNN_AnisaRosalina# Kecerdasan Buatan D4 Teknik Informatika 3A
+# TugasKNN_AnisaRosalina# 
 Tugas AI Konfigurasi CSV untuk data WEKA
 
 Nama : Anisa Rosalina
